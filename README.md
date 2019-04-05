@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/jozsefpinter/HelloWorld/_apis/build/status/notanywho.pipelines-dotnet-core-docker?branchName=master)](https://dev.azure.com/jozsefpinter/HelloWorld/_build/latest?definitionId=5&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
